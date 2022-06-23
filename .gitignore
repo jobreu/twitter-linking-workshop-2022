@@ -1,3 +1,12 @@
+# Jupyter Notebook files
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python files
+__pycache__
+
+# R
+
 # History files
 .Rhistory
 .Rapp.history

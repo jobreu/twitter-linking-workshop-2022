@@ -1,4 +1,4 @@
-# Jupyter notebooks containing examples of how to collect Twitter data with R, Python, and the command line interface (CLI)
+# Jupyter notebooks containing examples of how to collect Twitter data with R, Python, and the command-line interface (CLI)
 
 This repository contains a set of interactive [*Jupyter Notebooks*](https://jupyter.org/) that allow you to try out some data collection tools for Twitter without the need to install anything on your own computer.
 
@@ -7,7 +7,7 @@ This will open a [Jupyter Lab environment](https://jupyterlab.readthedocs.io/en/
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jobreu/twitter-linking-workshop-2022/main?urlpath=lab)
 
-If you have not worked with *Jupyter Notebooks* before, you can check out how to use them by opening the `jupyter_intro.ipynb` file in the *Jupyter Lab environment* that will open in your browser. Otherwise, you can launch one of the other notebooks (i.e, open one of the `.ipynb` files by double-clicking it in the explorer view on the left-hand side) to try out the `R` package [`academictwitteR`](https://github.com/cjbarrie/academictwitteR), the `Python` library [`tweepy`](https://github.com/tweepy/tweepy), and the command line interface (CLI) tool [`twarc`](https://twarc-project.readthedocs.io/en/latest/).
+If you have not worked with *Jupyter Notebooks* before, you can check out how to use them by opening the `jupyter_intro.ipynb` file in the *Jupyter Lab environment* that will open in your browser. Otherwise, you can launch one of the other notebooks (i.e, open one of the `.ipynb` files by double-clicking it in the explorer view on the left-hand side) to try out the `R` package [`academictwitteR`](https://github.com/cjbarrie/academictwitteR), the `Python` library [`tweepy`](https://github.com/tweepy/tweepy), and the command-line interface (CLI) tool [`twarc`](https://twarc-project.readthedocs.io/en/latest/).
 
 ## Important Notes
 
@@ -21,4 +21,4 @@ To save the entire contents of this *GitHub* repository locally, you can click t
 
 ## Technical Note
 
-To provide the interactive *Jupyter Notebooks* this repository uses the `BinderHub`[https://binderhub.readthedocs.io/en/latest/] deployment [*mybinder.org*](https://mybinder.org/).
+To provide the interactive *Jupyter Notebooks* this repository uses the [`BinderHub`](https://binderhub.readthedocs.io/en/latest/) deployment [*mybinder.org*](https://mybinder.org/).
